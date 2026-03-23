@@ -36,7 +36,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ```
 credit-card-fraud-detection-streamlit/
-│── app.py
+│── test.py
 │── creditcard.csv
 │── requirements.txt
 │── README.md
