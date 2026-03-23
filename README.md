@@ -4,6 +4,15 @@ A Machine Learning web application that detects whether a credit card transactio
 
 ---
 
+📊 Dataset
+
+This project uses the Credit Card Fraud Detection Dataset from Kaggle.
+
+🔗 Dataset Link:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+---
+
 ## 🚀 Features
 
 * 🔍 Real-time fraud detection
