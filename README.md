@@ -108,6 +108,7 @@ streamlit run app.py
 
 Priyanka Mittha
 📧 [mitthapriyanka16@gmail.com](mailto:mitthapriyanka16@gmail.com)
+
 🔗 LinkedIn: https://www.linkedin.com/in/priyanka-mittha
 
 ---
