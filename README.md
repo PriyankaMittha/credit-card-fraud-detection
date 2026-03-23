@@ -4,12 +4,31 @@ A Machine Learning web application that detects whether a credit card transactio
 
 ---
 
-📊 Dataset
+## 📊 Dataset
 
-This project uses the Credit Card Fraud Detection Dataset from Kaggle.
+This project uses the **Credit Card Fraud Detection Dataset** from Kaggle.
 
 🔗 Dataset Link:
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud ([GitHub][1])
+
+### 📌 Dataset Information:
+
+* Contains transactions made by European cardholders in September 2013 ([Open Big Data][2])
+* Total Transactions: **284,807**
+* Fraudulent Transactions: **492 (0.172%)** ([Open Big Data][2])
+* Highly **imbalanced dataset** (real-world scenario)
+* Features:
+
+  * `V1 – V28` → PCA transformed features
+  * `Time` → Time elapsed between transactions
+  * `Amount` → Transaction amount
+  * `Class` → Target variable (0 = Legitimate, 1 = Fraud)
+
+---
+
+⚠️ **Note:**
+Due to confidentiality, original feature names are not available and are transformed using PCA. ([Figshare][3])
+
 
 ---
 
