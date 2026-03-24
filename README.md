@@ -4,6 +4,13 @@ A Machine Learning web application that detects whether a credit card transactio
 
 ---
 
+## 🚀 Live Demo
+
+👉 Try the app here:  
+🔗 https://credit-card-fraud-detection-1-ei7z.onrender.com/
+
+---
+
 ## 📊 Dataset
 
 This project uses the **Credit Card Fraud Detection Dataset** from Kaggle.
